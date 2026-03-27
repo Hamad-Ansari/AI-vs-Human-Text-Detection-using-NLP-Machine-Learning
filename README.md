@@ -7,11 +7,13 @@
 
 A state-of-the-art NLP pipeline to distinguish between AI-generated and human-written text with over 95% accuracy. This project leverages advanced **stylometric analysis**, classical machine learning, and deep learning models to uncover the subtle patterns that define authorship.
 
-**➡️ View the full analysis in the [Kaggle Notebook](https://www.kaggle.com/your-notebook-link)**
+**➡️ View the full analysis in the [Kaggle Notebook](https://www.kaggle.com/https://www.kaggle.com/code/hammadansari7/ai-vs-human-text-detection?scriptVersionId=306830318)**
 
 ---
 
 ![Project Banner](https://i.imgur.com/your-banner-image.png) 
+<img width="1376" height="768" alt="Gemini_Generated_Image_wwgbeywwgbeywwgb" src="https://github.com/user-attachments/assets/fc2534ea-8d43-424d-a168-7cac8d9bb1af" />
+
 *(Image generated using the prompt from the previous step)*
 
 ## 🎯 Project Overview
@@ -141,3 +143,9 @@ probability = model.predict_proba(vectorized_text)
 
 print(f"Prediction: {'AI Generated' if prediction == 1 else 'Human Written'}")
 print(f"Confidence (AI): {probability:.2%}")
+```
+<img width="724" height="375" alt="da6621a5-699f-45db-aec8-d848a1c83086" src="https://github.com/user-attachments/assets/c4da3812-8b1b-45a2-b835-ab93cef02ab6" />
+
+<img width="1384" height="384" alt="6058e29a-6196-439f-9b00-f008623a9522" src="https://github.com/user-attachments/assets/88774971-6714-44bb-8735-6f1283511e31" />
+<img width="1389" height="495" alt="2395f854-e08b-4669-b282-93829b312781" src="https://github.com/user-attachments/assets/a777f6ca-4984-4760-88a9-f0f35a4c9010" />
+
