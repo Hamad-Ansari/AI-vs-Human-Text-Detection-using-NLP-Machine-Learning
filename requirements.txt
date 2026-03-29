@@ -23,3 +23,16 @@ plotly>=5.22.0
 
 # Utilities
 python-dotenv>=1.0.1
+
+
+streamlit
+pandas
+numpy
+scikit-learn
+nltk
+textblob
+tensorflow==2.16.1
+joblib
+lightgbm
+xgboost
+plotly
