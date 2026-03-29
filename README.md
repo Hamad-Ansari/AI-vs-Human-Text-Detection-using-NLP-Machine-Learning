@@ -144,6 +144,10 @@ probability = model.predict_proba(vectorized_text)
 print(f"Prediction: {'AI Generated' if prediction == 1 else 'Human Written'}")
 print(f"Confidence (AI): {probability:.2%}")
 ```
+## test Human Written
+Here’s why. I’m fully aware that most of what I read online these days is at the very least AI-assisted, if not entirely written by AI. Generally, I don’t mind. My main concern is whether what I’m reading is accurate or not. If I want to know how to operate my toaster, I don’t need to be assured that a human wrote the instructions. But when it comes to art and journalism, come on! With poetry, prose, etc., the whole point is the masterful placing of words in sentences, in paragraphs for the enjoyment and stirring of the reader.
+## test Ai Tesxt:
+How often do you ride in a car? Do you drive a one or any other motor vehicle to work? The store? To...
 <img width="724" height="375" alt="da6621a5-699f-45db-aec8-d848a1c83086" src="https://github.com/user-attachments/assets/c4da3812-8b1b-45a2-b835-ab93cef02ab6" />
 
 <img width="1384" height="384" alt="6058e29a-6196-439f-9b00-f008623a9522" src="https://github.com/user-attachments/assets/88774971-6714-44bb-8735-6f1283511e31" />
